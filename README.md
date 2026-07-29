@@ -1,14 +1,16 @@
-- Loja Online - Gestão de Produtos e Carrinho
+# Loja Online - Gestão de Produtos e Carrinho
 
 Aplicação desenvolvida para simular o funcionamento de uma loja digital, permitindo a gestão de produtos e fluxo de compras.
 
-- Funcionalidades
+# Funcionalidades
 
 *Catálogo de Produtos:* Listagem de artigos disponíveis com detalhes e preços.
+
 *Gestão de Carrinho:* Adição e remoção de produtos com cálculo automático do valor total.
+
 *Simulação de Compra:* Processamento do pedido e resumo final do carrinho.
 
-- Tecnologias Utilizadas
+# Tecnologias Utilizadas
 
 * Java
 * Conceitos de POO (Herança, Encapsulamento e Interfaces)
